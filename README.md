@@ -27,10 +27,14 @@ Este é o portfólio com meus principais projetos e jogos.
 
 #### JogabiliDate
 
-  Jogo feito para JOgabiliJam de 2021
+  Jogo feito para JogabiliJam de 2021
 
 - [Link para o Jogo](https://josue-vm.itch.io/jogabilidate)
 - [Repositório Github](https://github.com/josue-vm/Meus-Jogos/tree/main/JogabiliDate)
+
+#### Slime Kingdom
+  Jogo feito para a game jam do PONG de Maio de 2022
+  - [Link para o Jogo](https://josue-vm.itch.io/slime-kingdom)
 
 ## Disciplinas
 
